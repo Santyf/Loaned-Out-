@@ -7,7 +7,7 @@
 
 To view the app go to:
 
-https://github.com/ZekeriyaOtumlu/Loaned-Out-
+https://enigmatic-everglades-77067.herokuapp.com/
 
 ## Technologies
 ### Frontend
